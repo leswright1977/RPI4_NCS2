@@ -52,3 +52,12 @@ Run the following script:
 sh ~/openvino/inference_engine_vpu_arm/install_dependencies/install_NCS_udev_rules.sh
 
 Done!
+
+*Note: if you scripts currently have an import line like this:
+from openvino.inference_engine import IENetwork, IEPlugin
+
+As of the latest version of openvino, this is now:
+from armv7l.openvino.inference_engine import IENetwork, IEPlugin
+
+
+
