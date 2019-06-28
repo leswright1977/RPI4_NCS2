@@ -38,7 +38,7 @@ confThreshold = 0.4
 #this 'seems' to have improved accuracy!
 camera = PiCamera()
 camera.resolution = (frameWidth,frameHeight)
-camera.framerate = 30
+camera.framerate = 40
 rawCapture = PiRGBArray(camera, size=(frameWidth,frameHeight)) 
 
 # allow the camera to warmup
