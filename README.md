@@ -9,7 +9,7 @@ The package supplied by Intel does not expect Python 3.7, or Rasbian Buster for 
 I imagine they will release an update at some point, but I am not very patient.
 Here is a workaround, that can get you up and running with OpenVINO on the pi4! 
 It appears to work well, at least with my scripts from the PI3. I am getting about 30FPS with the async script on a single script!
-That said, there my be things I have not taken into account, or even broken, that I am not aware of!
+That said, there may be things I have not taken into account, or even broken, that I am not aware of!
 
 
 Initial setup:
