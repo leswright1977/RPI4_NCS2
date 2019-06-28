@@ -15,7 +15,7 @@ from armv7l.openvino.inference_engine import IENetwork, IEPlugin
 #https://raspberrypi.stackexchange.com/questions/87062/overhead-counter
 
 #Les Wright Dec 24 2018 (modified to support picam 30 Dec 2018)
-#refined to warp speed (30 fps video, upto 28 fps inferencing 28 June 2019)
+#refined to warp speed (39 fps video, upto 33 fps inferencing 28 June 2019)
 
 #Note cv2.dnn.blobFromImage, the size is present in the XML files, we could write a preamble to go get that data,
 #Then we dont have to explicitly set it!
