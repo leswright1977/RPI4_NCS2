@@ -60,7 +60,7 @@ sh ~/openvino/inference_engine_vpu_arm/install_dependencies/install_NCS_udev_rul
 
 Done!
 
-*Note: if you scripts currently have an import line like this:
+*Note: if your scripts currently have an import line like this:
 from openvino.inference_engine import IENetwork, IEPlugin
 
 As of the latest version of openvino, this is now:
