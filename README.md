@@ -13,7 +13,7 @@ It appears to work well, at least with my scripts from the PI3. I am getting > 3
 ![Screenshot](media/cap.gif)
 
 
-![Screenshot](media/cap.jpg)
+![Screenshot](media/cap.png)
 
 
 That said, there may be things I have not taken into account, or even broken, that I am not aware of!
