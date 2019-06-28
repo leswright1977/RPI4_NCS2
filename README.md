@@ -33,6 +33,7 @@ Untar:
 tar -xf l_openvino_toolkit_raspbi_p_2019.1.094.tgz
 
 REPLACE ~/openvino/inference_engine_vpu_arm/bin/setupvars.sh with the version of setupvars.sh that I have uploaded here:
+https://github.com/leswright1977/RPI4_NCS2/blob/master/src/setupvars.sh 
 About the file:
 Fixed expected OS version
 Hacked in some symlinks and dynamically loaded libs to fix errors. 
